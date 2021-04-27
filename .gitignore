@@ -1,0 +1,11 @@
+.idea/
+target/
+.DS_store
+*.iml
+dependency-reduced-pom.xml
+logs/
+data/
+*.log
+*.rdb
+*.jar
+
